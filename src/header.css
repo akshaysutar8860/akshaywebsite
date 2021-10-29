@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  color: white;
+  flex-wrap: wrap;
+
+  margin: 10px;
+}
+.divs {
+  margin: 5px;
+}

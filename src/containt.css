@@ -1,0 +1,20 @@
+.projects {
+  list-style-type: none;
+}
+.containt {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.div_sec {
+  background-color: #333333;
+  color: white;
+  width: 300px;
+  margin-top: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.span_ {
+  color: orange;
+  font-size: 20px;
+}

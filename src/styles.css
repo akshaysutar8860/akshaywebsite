@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+  text-transform: capitalize;
+}
+a {
+  color: wheat;
+}
+a:hover {
+  color: orange;
+}
+h3 {
+  text-transform: uppercase;
+  text-decoration: underline silver 5px;
+}
